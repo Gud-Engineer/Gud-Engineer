@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Gud-Engineer
 - 👀 I’m interested in Learning New Stuff
-- 🌱 I’m currently learning JAVA
+- 🌱 I’m currently learning JAVA and MULESOFT
 - 💞️ I’m looking to collaborate on Projects with Data Analytics,Machine Learning,API creation using Languages Python,Java & Mulesoft
-- 📫 How to reach me drop me a mail on h20201410184@hyderabad.bits-pilani.ac.in :)
+- 📫 How to reach me drop me a mail on letslearnnewthings007@gmail.com :)
 
 <!---
 Gud-Engineer/Gud-Engineer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
