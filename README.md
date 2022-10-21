@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Gud-Engineer
 - 👀 I’m interested in Learning New Stuff
 - 🌱 I’m currently learning JAVA and MULESOFT
-- 💞️ I’m looking to collaborate on Projects with Data Analytics,Machine Learning,API creation using Languages Python,Java & Mulesoft
+- 💞️ I’m looking to collaborate on Projects with Data Analytics,Machine Learning,API creation using Languages Python,Presentations,Reading,Java & Mulesoft
 - 📫 How to reach me drop me a mail on letslearnnewthings007@gmail.com :)
 
 <!---
